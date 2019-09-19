@@ -4,9 +4,9 @@ Oversikt over Arduino'er:
 |------------------|--------------------|-----------|-----------------------|
 | Kåre | Arduino Uno | Kina-hack |  | 
 | Sander | Arduino Uno | Kina-hack |  | 
-| Avani | Arduino Uno | Kina-hack | 59 |
+| Avani | Arduino Uno | Kina-hack |  |
 | Lars | Arduino Uno | Kina-hack |  |
-| Felix | Arduino Uno | Kina-hack |  |
+| Felix | Arduino Uno | Kina-hack | 30 |
 | David | Arduino Uno | Kina-hack |  |
 | Herman | Arduino Uno | Kina-hack |  | 
 | Ola | Arduino Uno | Kina-hack |  | 
